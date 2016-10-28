@@ -1,0 +1,16 @@
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\bin\Debug\ActiveSense.Tempsense.SensorApp.exe.config
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\bin\Debug\ActiveSense.Tempsense.SensorApp.exe
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\bin\Debug\ActiveSense.Tempsense.SensorApp.pdb
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\obj\Debug\ActiveSense.Tempsense.SensorApp.csprojResolveAssemblyReference.cache
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\obj\Debug\Login.g.cs
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\obj\Debug\App.g.cs
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\obj\Debug\ActiveSense.Tempsense.SensorApp_MarkupCompile.cache
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\obj\Debug\ActiveSense.Tempsense.SensorApp_MarkupCompile.lref
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\obj\Debug\Login.baml
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\obj\Debug\ActiveSense.Tempsense.SensorApp.g.resources
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\obj\Debug\ActiveSense.Tempsense.SensorApp.Properties.Resources.resources
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\obj\Debug\ActiveSense.Tempsense.SensorApp.csproj.GenerateResource.Cache
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\obj\Debug\ActiveSense.Tempsense.SensorApp.exe
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\obj\Debug\ActiveSense.Tempsense.SensorApp.pdb
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\obj\Debug\View\MainPage.g.cs
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.SensorApp\obj\Debug\View\MainPage.baml

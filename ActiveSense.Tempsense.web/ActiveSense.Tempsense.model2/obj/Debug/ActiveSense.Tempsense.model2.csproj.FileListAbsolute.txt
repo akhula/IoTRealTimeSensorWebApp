@@ -1,0 +1,10 @@
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.model2\bin\Debug\ActiveSense.Tempsense.model2.dll.config
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.model2\bin\Debug\ActiveSense.Tempsense.model2.dll
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.model2\bin\Debug\ActiveSense.Tempsense.model2.pdb
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.model2\bin\Debug\EntityFramework.dll
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.model2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.model2\bin\Debug\EntityFramework.xml
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.model2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.model2\obj\Debug\ActiveSense.Tempsense.model2.csprojResolveAssemblyReference.cache
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.model2\obj\Debug\ActiveSense.Tempsense.model2.dll
+C:\Proyectos\TempSense\Dev2\ActiveSense.Tempsense.web\ActiveSense.Tempsense.model2\obj\Debug\ActiveSense.Tempsense.model2.pdb
